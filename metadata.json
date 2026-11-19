@@ -1,0 +1,6 @@
+{
+  "name": "Jarvis AI",
+  "description": "Your personal AI assistant & friend with world knowledge, AI image generation, technical structural breakdowns, and voice interaction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
